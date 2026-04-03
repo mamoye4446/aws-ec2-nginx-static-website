@@ -22,6 +22,17 @@ In this project, I:
 - HTML
 - SSH
 
+## Screenshots
+
+### Website
+![Website](Screenshots/website.png)
+
+### EC2 Instance
+![EC2](Screenshots/ec2.png)
+
+### Security Group
+![Security Group](Screenshots/security-group.png)
+
 ## What I Learned
 - How to launch and access an EC2 instance
 - How to connect to a remote Linux server with SSH
